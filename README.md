@@ -31,7 +31,7 @@ Full Stack Developer & Systems Student focused on building scalable web applicat
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santinovargasdb&theme=2077" width="48%" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=santinovargasdb&theme=2077" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santinovargasdb&theme=2077" width="48%" alt="Top Languages" />
 </p>
 <!--
 **santinovargasdb/santinovargasdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
