@@ -29,9 +29,10 @@ Full Stack Developer & Systems Student focused on building scalable web applicat
 
 ### 📊 GitHub Stats
 
-![Santino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=santinovargasdb&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santinovargasdb&layout=compact&theme=dark&hide_border=true&hide=html,css,markdown)
+<p align="center">
+  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=santinovargasdb&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=santinovargasdb&layout=compact&theme=dark&hide_border=true&hide=html,css,markdown" width="48%" alt="Top Languages" />
+</p>
 
 <!--
 **santinovargasdb/santinovargasdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
