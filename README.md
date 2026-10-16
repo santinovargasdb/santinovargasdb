@@ -58,12 +58,6 @@ I build web apps end to end — from marketplaces with geo-matching and real-tim
 </a>
 </details>
 
-<details>
-<summary>📸 <b>social-media-filter-engine</b> — see it in action</summary>
-<br>
-<img src="screenshots/filtro-demo.gif" width="100%" alt="SMATA media monitor demo — search config, dark mode and exit-poll module">
-</details>
-
 ## 📊 GitHub Stats
 
 <p align="center">
