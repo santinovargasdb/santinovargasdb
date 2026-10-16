@@ -1,49 +1,63 @@
-# Hi there, I'm Santino 👋
+<div align="center">
+
+# Hey, I'm Santino 🔥
+
+**Full Stack Developer & Freelancer · Buenos Aires, AR**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santino-vargas-di-buono-77b2378/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://santinovargasdb.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e84e1b?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://santinovargasdb.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santinovargasdb@gmail.com)
 
----
+</div>
 
-### 🚀 About Me
+I build web apps end to end — from marketplaces with geo-matching and real-time chat to AI-powered monitoring systems running in production. Currently freelancing and open to new projects.
 
-Full Stack Developer & Systems Student focused on building scalable web applications, automation systems, and interactive tools. Always learning, building, and refining software workflows.
+## ⚡ Tech Stack
 
-- 🔭 **Currently working on:** Enhancing real-time monitoring engines and automation scripts.
-- 🛠️ **Tech Stack:** TypeScript, JavaScript, React, Node.js, PHP, Python, Git & GitHub Actions.
-- ⚡ **Focus:** Web Systems, Full Stack Architecture, and UI/UX Optimization.
+**Frontend**&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+**Backend**&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### 💻 Featured Projects
+**Data & Infra**&nbsp;&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-| Project | Description | Stack |
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **[LogiSwift](https://github.com/santinovargasdb/LogiSwift)** | High-efficiency logistics & management suite designed for smooth workflow tracking. | `TypeScript` `React` `Tailwind` |
-| **[altoque-core](https://github.com/santinovargasdb/AlToque)** | Core engine for rapid services and real-time interaction management. | `JavaScript` `Node.js` |
-| **[smart-monitor-ai](https://github.com/santinovargasdb/smart-monitor-ai)** | Automated monitoring tool for real-time analytics and reporting. | `Python` `Automation` |
-| **[social-media-filter-engine](https://github.com/santinovargasdb/social-media-filter-engine)** | Smart filtering system tailored for content categorization and analysis. | `JavaScript` `APIs` |
+| 🚨 **[AlToque](https://github.com/santinovargasdb/AlToque)** | PWA marketplace for urgent home services in Buenos Aires — PostGIS geo-matching, real-time chat and payments | `Next.js` `Supabase` |
+| 🎴 **[Dojo Ledger](https://github.com/santinovargasdb/habits-tracker-app)** | Offline-first habit tracker with a gamified economy: collectible cards, gacha and a server-side RNG casino | `Next.js` `Supabase` |
+| 🛍️ **[arcea](https://github.com/santinovargasdb/arcea-app)** | Full-stack e-commerce for a clothing brand — catalog, cart and checkout hardened with RLS and anti role-escalation | `Next.js` `Supabase` |
+| 📡 **[social-media-filter-engine](https://github.com/santinovargasdb/social-media-filter-engine)** | Media & social monitor (X/IG/TikTok) for a press team — scraping, AI scoring (Gemini) and automated reports. **In production** | `FastAPI` `Next.js` |
+| 🚚 **[LogiSwift](https://github.com/santinovargasdb/LogiSwift)** | Delivery logistics PWA — route sheets, vehicle stock and end-of-day sales close *(WIP)* | `React` `Supabase` |
 
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santinovargasdb&theme=2077" width="48%" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santinovargasdb&theme=2077" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santinovargasdb&show_icons=true&include_all_commits=true&bg_color=1a1612&title_color=ff7a3d&icon_color=f5c800&text_color=ede6d6&border_color=e84e1b&rank_icon=github" width="49%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santinovargasdb&layout=compact&langs_count=8&bg_color=1a1612&title_color=ff7a3d&text_color=ede6d6&border_color=e84e1b" width="49%" alt="Top languages" />
 </p>
-<!--
-**santinovargasdb/santinovargasdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=santinovargasdb&background=1a1612&ring=e84e1b&fire=f5c800&currStreakLabel=ff7a3d&currStreakNum=ede6d6&sideLabels=ede6d6&sideNums=ede6d6&dates=7a6f60&border=e84e1b" width="60%" alt="GitHub streak" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+**📫 Got a project in mind?** Reach me at [santinovargasdb@gmail.com](mailto:santinovargasdb@gmail.com) or check my [portfolio](https://santinovargasdb.netlify.app).
+
+</div>
