@@ -2,6 +2,8 @@
 
 # Hey, I'm Santino 🔥
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=E84E1B&center=true&vCenter=true&width=780&height=44&lines=TO+BE+THE+BEST+YOU+HAVE+TO+BEAT+THE+BEST+AND+THE+BEST+IS+BLESSED" alt="TO BE THE BEST YOU HAVE TO BEAT THE BEST AND THE BEST IS BLESSED" />
+
 <a href="https://github.com/santinovargasdb">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="ascii-portrait-dark.svg">
