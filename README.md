@@ -50,6 +50,14 @@ I build web apps end to end — from marketplaces with geo-matching and real-tim
 | 📡 **[social-media-filter-engine](https://github.com/santinovargasdb/social-media-filter-engine)** | Media & social monitor (X/IG/TikTok) for a press team — scraping, AI scoring (Gemini) and automated reports. **In production** | `FastAPI` `Next.js` |
 | 🚚 **[LogiSwift](https://github.com/santinovargasdb/LogiSwift)** | Delivery logistics PWA — route sheets, vehicle stock and end-of-day sales close *(WIP)* | `React` `Supabase` |
 
+<details>
+<summary>📸 <b>AlToque</b> — see it live</summary>
+<br>
+<a href="https://al-toque-eta.vercel.app">
+  <img src="screenshots/altoque.png" width="100%" alt="AlToque landing page — El oficio que necesitás, al toque">
+</a>
+</details>
+
 ## 📊 GitHub Stats
 
 <p align="center">
