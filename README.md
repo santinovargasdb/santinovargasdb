@@ -10,7 +10,7 @@
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santino-vargas-di-buono-77b2378/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-e84e1b?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://santinovargasdb.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e84e1b?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://portfolio-web-sv.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santinovargasdb@gmail.com)
 
 </div>
@@ -36,7 +36,7 @@ I build web apps end to end — from marketplaces with geo-matching and real-tim
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -63,6 +63,6 @@ I build web apps end to end — from marketplaces with geo-matching and real-tim
 
 <div align="center">
 
-**📫 Got a project in mind?** Reach me at [santinovargasdb@gmail.com](mailto:santinovargasdb@gmail.com) or check my [portfolio](https://santinovargasdb.netlify.app).
+**📫 Got a project in mind?** Reach me at [santinovargasdb@gmail.com](mailto:santinovargasdb@gmail.com) or check my [portfolio](https://portfolio-web-sv.vercel.app).
 
 </div>
