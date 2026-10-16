@@ -51,12 +51,12 @@ I build web apps end to end — from marketplaces with geo-matching and real-tim
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santinovargasdb&show_icons=true&include_all_commits=true&bg_color=1a1612&title_color=ff7a3d&icon_color=f5c800&text_color=ede6d6&border_color=e84e1b&rank_icon=github" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santinovargasdb&layout=compact&langs_count=8&bg_color=1a1612&title_color=ff7a3d&text_color=ede6d6&border_color=e84e1b" width="49%" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santinovargasdb&show_icons=true&include_all_commits=true&card_width=495&line_height=24&bg_color=1a1612&title_color=ff7a3d&icon_color=f5c800&text_color=ede6d6&border_color=e84e1b&rank_icon=github" width="49%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santinovargasdb&layout=compact&langs_count=8&card_width=495&bg_color=1a1612&title_color=ff7a3d&text_color=ede6d6&border_color=e84e1b" width="49%" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=santinovargasdb&background=1a1612&ring=e84e1b&fire=f5c800&currStreakLabel=ff7a3d&currStreakNum=ede6d6&sideLabels=ede6d6&sideNums=ede6d6&dates=7a6f60&border=e84e1b" width="60%" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=santinovargasdb&card_width=1000&background=1a1612&ring=e84e1b&fire=f5c800&currStreakLabel=ff7a3d&currStreakNum=ede6d6&sideLabels=ede6d6&sideNums=ede6d6&dates=7a6f60&border=e84e1b" width="98%" alt="GitHub streak" />
 </p>
 
 ---
