@@ -59,6 +59,13 @@ I build web apps end to end — from marketplaces with geo-matching and real-tim
   <img src="https://streak-stats.demolab.com/?user=santinovargasdb&card_width=900&background=1a1612&ring=e84e1b&fire=f5c800&currStreakLabel=ff7a3d&currStreakNum=ede6d6&sideLabels=ede6d6&sideNums=ede6d6&dates=7a6f60&border=e84e1b" width="98%" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="heatmap-dark.svg">
+    <img alt="Contribution heatmap, caldera flavored" src="heatmap-light.svg" width="98%">
+  </picture>
+</p>
+
 ---
 
 <div align="center">
