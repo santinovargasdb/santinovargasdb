@@ -2,7 +2,12 @@
 
 # Hey, I'm Santino 🔥
 
-**Full Stack Developer & Freelancer · Buenos Aires, AR**
+<a href="https://github.com/santinovargasdb">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="ascii-portrait-dark.svg">
+    <img alt="ASCII portrait of Santino with a neofetch-style summary" src="ascii-portrait-light.svg" width="100%">
+  </picture>
+</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santino-vargas-di-buono-77b2378/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-e84e1b?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://santinovargasdb.netlify.app)

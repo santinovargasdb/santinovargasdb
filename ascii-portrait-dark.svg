@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="352" viewBox="0 0 880 352" font-family="'Cascadia Code', Consolas, 'DejaVu Sans Mono', Menlo, monospace">
+<rect x="1.5" y="1.5" width="877" height="349" rx="14" fill="#1a1612" stroke="#e84e1b" stroke-width="2"/>
+<text xml:space="preserve" font-size="10.5" fill="#ff7a3d">
+<tspan x="28" y="30"></tspan>
+<tspan x="28" y="40">                        .:::::-:.</tspan>
+<tspan x="28" y="50">                       :+#%@@@@@%%*-</tspan>
+<tspan x="28" y="60">                      :#%@@@@#@@@@@@%+.</tspan>
+<tspan x="28" y="70">                     :+#*#=::.--==*#@@#.</tspan>
+<tspan x="28" y="80">                  :.:*#%+         .-+%#+.</tspan>
+<tspan x="28" y="90">                 .: *@@#=..       .-+%@%=.</tspan>
+<tspan x="28" y="100">                 .. +@@%%%%%%++#%%%#%@@@#::.</tspan>
+<tspan x="28" y="110">                 .  -@%+%@@@@==@@@@@@@@@%+-:</tspan>
+<tspan x="28" y="120">                .:. :@%-:-=:-.:*+#%**%@@%*-:</tspan>
+<tspan x="28" y="130">                ..:.:*#-   :+-+#-.:-*@@%#*==.</tspan>
+<tspan x="28" y="140">                :--==++=-+*=*%%#+==*%@@%#*+=.</tspan>
+<tspan x="28" y="150">                :==+++++=**#%%%%%%#@@@@@%*+-</tspan>
+<tspan x="28" y="160">                 =*++++++-:=*###*#@@@@@@%#+</tspan>
+<tspan x="28" y="170">                 :*+=++++**==++*%@@@@@@@#+:</tspan>
+<tspan x="28" y="180">                  :+==++==*%@@@@@@@@@@%#+:</tspan>
+<tspan x="28" y="190">                   :-=#@+==+*%@@@@@@@%**-</tspan>
+<tspan x="28" y="200">                 :+##%@@@#+=*#%#**%%@@#*+-.</tspan>
+<tspan x="28" y="210">               .+%%%@%@@@@%*+=:.=%@@@@#+++=-.</tspan>
+<tspan x="28" y="220">              =###*@##%@@@@@*.:#@@%#*++=++*+=:</tspan>
+<tspan x="28" y="230">            :+%+**##+****#%%%#@%**++++=-==+*+==:</tspan>
+<tspan x="28" y="240">          .+*%**+=+==+++=+++#%*++++===-=====*=**=.</tspan>
+<tspan x="28" y="250">         =+%%%#+..-+=======*#+++=+===-=: .==+*#*+*=</tspan>
+<tspan x="28" y="260">       :*##%%%#---=+===+==**++++=+=====:..=*+*%###*+:</tspan>
+<tspan x="28" y="270">     .+####%%@#++*++++++=+***++*=======++++###%%#*#+#+.</tspan>
+<tspan x="28" y="280">    .###%%@@@@@*#*+++++++**++++*++++++++++*#%#%%#%*+#*+:</tspan>
+<tspan x="28" y="290">   .=%#%#@@@@@@##*******+#*+*+*#+++********@@@@%%#+#***=:</tspan>
+<tspan x="28" y="300">   .+%#%%%@@@@@##***###++####**#*****###**%@@@@%#**#+**+:</tspan>
+<tspan x="28" y="310">   .+*##%%%@@@%##***##*++%###+*#****######%@@@@%#*%*+*++:</tspan>
+<tspan x="28" y="320">   :***##@@@@@%#***##*++*%%##+*#****##*##%%@@@@##%*+**+*-</tspan>
+</text>
+<text x="440" y="64" font-size="18" font-weight="bold" fill="#f5c800">santino@github</text>
+<text x="440" y="88" font-size="14" fill="#7a6f60">──────────────────────────────────</text>
+<text x="440" y="112" font-size="14"><tspan fill="#00c2cc" font-weight="bold">name</tspan><tspan fill="#7a6f60">: </tspan><tspan x="550" fill="#ede6d6">Santino Vargas Di Buono</tspan></text>
+<text x="440" y="136" font-size="14"><tspan fill="#00c2cc" font-weight="bold">role</tspan><tspan fill="#7a6f60">: </tspan><tspan x="550" fill="#ede6d6">Full Stack Dev &amp; Freelancer</tspan></text>
+<text x="440" y="160" font-size="14"><tspan fill="#00c2cc" font-weight="bold">location</tspan><tspan fill="#7a6f60">: </tspan><tspan x="550" fill="#ede6d6">Buenos Aires, AR</tspan></text>
+<text x="440" y="184" font-size="14"><tspan fill="#00c2cc" font-weight="bold">stack</tspan><tspan fill="#7a6f60">: </tspan><tspan x="550" fill="#ede6d6">TypeScript · React · Next.js</tspan></text>
+<text x="440" y="208" font-size="14"><tspan fill="#00c2cc" font-weight="bold">backend</tspan><tspan fill="#7a6f60">: </tspan><tspan x="550" fill="#ede6d6">Python · FastAPI · Node.js</tspan></text>
+<text x="440" y="232" font-size="14"><tspan fill="#00c2cc" font-weight="bold">data</tspan><tspan fill="#7a6f60">: </tspan><tspan x="550" fill="#ede6d6">Supabase · PostgreSQL</tspan></text>
+<text x="440" y="256" font-size="14"><tspan fill="#00c2cc" font-weight="bold">building</tspan><tspan fill="#7a6f60">: </tspan><tspan x="550" fill="#ede6d6">AlToque · Dojo Ledger</tspan></text>
+<text x="440" y="280" font-size="14"><tspan fill="#00c2cc" font-weight="bold">status</tspan><tspan fill="#7a6f60">: </tspan><tspan x="550" fill="#ede6d6">available for freelance</tspan></text>
+<rect x="440" y="302" width="34" height="18" rx="4" fill="#e84e1b"/>
+<rect x="482" y="302" width="34" height="18" rx="4" fill="#ff7a3d"/>
+<rect x="524" y="302" width="34" height="18" rx="4" fill="#f5c800"/>
+<rect x="566" y="302" width="34" height="18" rx="4" fill="#00c2cc"/>
+<rect x="608" y="302" width="34" height="18" rx="4" fill="#7a6f60"/>
+</svg>
